@@ -75,7 +75,7 @@ This project demonstrates core Object-Oriented Programming (OOP) concepts in C++
 ```
 devbhoomi-bank/
 │
-├── main.cpp            # Entry point + Menu function
+├── bankSystem.cpp            # Entry point + Menu function
 ├── bank_data.txt       # Auto-generated data file (after saving)
 └── README.md           # Project documentation
 ```
